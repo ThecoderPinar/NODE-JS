@@ -13,3 +13,10 @@ https://app.patika.dev/courses/nodejs/odev2
 ![Ekran görüntüsü 2022-09-22 191923](https://user-images.githubusercontent.com/107423523/191800294-46ed414d-cf14-467f-a927-e89a5c38373e.png)
 
 ![Ekran görüntüsü 2022-09-22 191953](https://user-images.githubusercontent.com/107423523/191800334-45b4b39a-2c42-4e7c-9172-cfa5ab84fb5a.png)
+
+# PATİKA ÖDEV3-NODE.JS 
+https://app.patika.dev/courses/nodejs/odev3
+
+![circle1](https://user-images.githubusercontent.com/107423523/191807034-3e615147-5626-4c62-9119-392c5330f973.png)
+
+![circle2](https://user-images.githubusercontent.com/107423523/191807092-8bf4cdb5-728e-4586-afbd-9e35e1a4afae.png)
